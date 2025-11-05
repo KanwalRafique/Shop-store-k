@@ -87,14 +87,5 @@ with love by Kanwal Rafiqe 💕
 
 ---
 
-### ✅ After adding this:
-1. Save it as `README.md`
-2. Run:
-   ```bash
-   git add README.md
-   git commit -m "Updated README with polished version"
-   git push
-
-
 
 
