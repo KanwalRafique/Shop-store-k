@@ -1,0 +1,136 @@
+# Query: lovable
+# ContextLines: 1
+
+36 results - 4 files
+
+index.html:
+   6      <title>lively-commerce-kit</title>
+   7:     <meta name="description" content="Lovable Gen
+   8:     <meta name="author" content="Lovable" />
+   9  
+  10      <meta property="og:title" content="lively-commerce-kit" />
+  11:     <meta property="og:description" content="Lovable Generated Project" />
+  12      <meta property="og:type" content="website" />
+  13:     <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+  14  
+  15      <meta name="twitter:card" content="summary_large_image" />
+  16:     <meta name="twitter:site" content="@Lovable" />
+  17:     <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+  18    </head>
+
+package-lock.json:
+    73          "globals": "^15.15.0",
+    74:         "lovable-tagger": "^1.1.11",
+    75          "postcss": "^8.5.6",
+
+  4850      },
+  4851:     "node_modules/lovable-tagger": {
+  4852        "version": "1.1.11",
+  4853:       "resolved": "https://registry.npmjs.org/lovable-tagger/-/lovable-tagger-1.1.11.tgz",
+  4854        "integrity": "sha512-G1gUZi8CebQpB/5+IHWYekRyeRFF2RR7iXSjGO+iVWpwlpa19swgYCYem2z+IkBJO0fKRYJ98xz4yhdt++MzLA==",
+
+  4868      },
+  4869:     "node_modules/lovable-tagger/node_modules/@esbuild/aix-ppc64": {
+  4870        "version": "0.25.0",
+
+  4885      },
+  4886:     "node_modules/lovable-tagger/node_modules/@esbuild/android-arm": {
+  4887        "version": "0.25.0",
+
+  4902      },
+  4903:     "node_modules/lovable-tagger/node_modules/@esbuild/android-arm64": {
+  4904        "version": "0.25.0",
+
+  4919      },
+  4920:     "node_modules/lovable-tagger/node_modules/@esbuild/android-x64": {
+  4921        "version": "0.25.0",
+
+  4936      },
+  4937:     "node_modules/lovable-tagger/node_modules/@esbuild/darwin-arm64": {
+  4938        "version": "0.25.0",
+
+  4953      },
+  4954:     "node_modules/lovable-tagger/node_modules/@esbuild/darwin-x64": {
+  4955        "version": "0.25.0",
+
+  4970      },
+  4971:     "node_modules/lovable-tagger/node_modules/@esbuild/freebsd-arm64": {
+  4972        "version": "0.25.0",
+
+  4987      },
+  4988:     "node_modules/lovable-tagger/node_modules/@esbuild/freebsd-x64": {
+  4989        "version": "0.25.0",
+
+  5004      },
+  5005:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-arm": {
+  5006        "version": "0.25.0",
+
+  5021      },
+  5022:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-arm64": {
+  5023        "version": "0.25.0",
+
+  5038      },
+  5039:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-ia32": {
+  5040        "version": "0.25.0",
+
+  5055      },
+  5056:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-loong64": {
+  5057        "version": "0.25.0",
+
+  5072      },
+  5073:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-mips64el": {
+  5074        "version": "0.25.0",
+
+  5089      },
+  5090:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-ppc64": {
+  5091        "version": "0.25.0",
+
+  5106      },
+  5107:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-riscv64": {
+  5108        "version": "0.25.0",
+
+  5123      },
+  5124:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-s390x": {
+  5125        "version": "0.25.0",
+
+  5140      },
+  5141:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-x64": {
+  5142        "version": "0.25.0",
+
+  5157      },
+  5158:     "node_modules/lovable-tagger/node_modules/@esbuild/netbsd-x64": {
+  5159        "version": "0.25.0",
+
+  5174      },
+  5175:     "node_modules/lovable-tagger/node_modules/@esbuild/openbsd-x64": {
+  5176        "version": "0.25.0",
+
+  5191      },
+  5192:     "node_modules/lovable-tagger/node_modules/@esbuild/sunos-x64": {
+  5193        "version": "0.25.0",
+
+  5208      },
+  5209:     "node_modules/lovable-tagger/node_modules/@esbuild/win32-arm64": {
+  5210        "version": "0.25.0",
+
+  5225      },
+  5226:     "node_modules/lovable-tagger/node_modules/@esbuild/win32-ia32": {
+  5227        "version": "0.25.0",
+
+  5242      },
+  5243:     "node_modules/lovable-tagger/node_modules/@esbuild/win32-x64": {
+  5244        "version": "0.25.0",
+
+  5259      },
+  5260:     "node_modules/lovable-tagger/node_modules/esbuild": {
+  5261        "version": "0.25.0",
+
+package.json:
+  76      "globals": "^15.15.0",
+  77:     "lovable-tagger": "^1.1.11",
+  78      "postcss": "^8.5.6",
+
+vite.config.ts:
+  3  import path from "path";
+  4: import { componentTagger } from "lovable-tagger";
+  5  
