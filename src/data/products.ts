@@ -8,6 +8,14 @@ import shoesImage from "@/assets/product-shoes.jpg";
 import walletImage from "@/assets/product-wallet.jpg";
 import sunglassesImage from "@/assets/product-sunglasses.jpg";
 import fitnessBandImage from "@/assets/product-smart-watch.jpg";
+import hoodieImage from "@/assets/product-winter-hoodie.jpg";
+import tshirtImage from "@/assets/product-cotton-shirt.jpg";
+import joggersImage from "@/assets/product-slim-jogger-pants.jpg";
+import phoneHolderImage from "@/assets/product-magnetic-phone-holder.jpg";
+import capImage from "@/assets/product-baseball-cap.jpg";
+import toteBagImage from "@/assets/product-faishon-bag.jpg"
+
+
 
 
 
@@ -111,5 +119,53 @@ export const products: Product[] = [
   image: fitnessBandImage,
   description: "Lightweight fitness tracker with heart-rate monitoring, step counting, and sleep tracking features.",
 },
-  
+{
+  id: "13",
+  name: "Winter Hooded Sweatshirt",
+  price: 18.49,
+  category: "Clothing",
+  image: hoodieImage,
+  description: "Cozy fleece hoodie with adjustable drawstrings and a relaxed fit for cold-weather comfort.",
+},
+{
+  id: "14",
+  name: "Cotton Graphic T-Shirt",
+  price: 9.99,
+  category: "Clothing",
+  image: tshirtImage,
+  description: "Soft cotton t-shirt featuring a modern graphic design. Comfortable for everyday wear.",
+},
+{
+  id: "15",
+  name: "Slim Fit Jogger Pants",
+  price: 14.99,
+  category: "Clothing",
+  image: joggersImage,
+  description: "Lightweight, stretchable joggers designed for casual wear, workouts, and all-day comfort.",
+},
+{
+  id: "16",
+  name: "Magnetic Phone Holder",
+  price: 4.49,
+  category: "Accessories",
+  image: phoneHolderImage,
+  description: "Compact magnetic mount for secure phone placement in cars, desks, or workstations.",
+},
+{
+  id: "17",
+  name: "Adjustable Baseball Cap",
+  price: 5.99,
+  category: "Accessories",
+  image: capImage,
+  description: "Classic cap with adjustable strap, breathable fabric, and a sporty everyday look.",
+},
+{
+  id: "18",
+  name: "Fashion Tote Bag",
+  price: 8.99,
+  category: "Accessories",
+  image: toteBagImage,
+  description: "Stylish and spacious tote bag perfect for shopping, travel, or daily essentials.",
+},
+
 ];
