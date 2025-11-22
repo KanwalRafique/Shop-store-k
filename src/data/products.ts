@@ -5,6 +5,7 @@ import watchImage from "@/assets/product-watch.jpg";
 import speakerImage from "@/assets/product-speaker.jpg";
 
 
+
 export const products: Product[] = [
   {
     id: "1",
