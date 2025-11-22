@@ -52,7 +52,7 @@ export const Footer = () => {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; Made with 💓{new Date().getFullYear()} ShopStore.</p>
+          <p>Made with 💓 &copy; {new Date().getFullYear()} ShopStore.</p>
         </div>
       </div>
     </footer>
