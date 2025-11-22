@@ -75,7 +75,7 @@ export const products: Product[] = [
   description: "Timeless denim jacket with a modern fit. Perfect for casual wear and all-season styling.",
 },
 {
-  id: "10",
+  id: "9",
   name: "Athletic Running Shoes",
   price: 29.99,
   category: "Clothing",
