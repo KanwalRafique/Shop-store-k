@@ -52,7 +52,7 @@ export const Footer = () => {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Store. All rights reserved.</p>
+          <p>&copy; Made with 💓{new Date().getFullYear()} ShopStore.</p>
         </div>
       </div>
     </footer>
