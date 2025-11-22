@@ -6,6 +6,10 @@ import speakerImage from "@/assets/product-speaker.jpg";
 import jacketImage from "@/assets/product-denum-jacket.jpg";
 import shoesImage from "@/assets/product-shoes.jpg";
 import walletImage from "@/assets/product-wallet.jpg";
+import sunglassesImage from "@/assets/product-sunglasses.jpg";
+import fitnessBandImage from "@/assets/product-fitness-band.jpg";
+
+
 
 
 
@@ -76,6 +80,14 @@ export const products: Product[] = [
 },
 {
   id: "9",
+  name: "Aviator Sunglasses",
+  price: 3.99,
+  category: "Accessories",
+  image: sunglassesImage,
+  description: "Stylish UV-protected aviator sunglasses offering comfort and a bold fashion statement.",
+},
+{
+  id: "10",
   name: "Athletic Running Shoes",
   price: 29.99,
   category: "Clothing",
@@ -83,12 +95,20 @@ export const products: Product[] = [
   description: "Breathable, lightweight running shoes designed for comfort, durability, and performance during workouts.",
 },
 {
-  id: "10",
+  id: "11",
   name: "Luxury Leather Wallet",
   price: 7.99,
   category: "Electronics",
   image: walletImage,
   description: "Sleek genuine leather wallet with multiple card slots and a slim, premium design.",
+},
+{
+  id: "12",
+  name: "Smart Fitness Band",
+  price: 12.49,
+  category: "Electronics",
+  image: fitnessBandImage,
+  description: "Lightweight fitness tracker with heart-rate monitoring, step counting, and sleep tracking features.",
 },
   
 ];

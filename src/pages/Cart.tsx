@@ -121,7 +121,7 @@ const Cart = () => {
                   <div className="flex justify-between">
                     <span className="text-muted-foreground">Shipping</span>
                     <span className="font-medium">
-                      {totalPrice >= 100 ? "FREE" : "$5.00"}
+                      {totalPrice >= 100 ? "FREE" : "$1.00"}
                     </span>
                   </div>
                   <div className="border-t pt-4">
