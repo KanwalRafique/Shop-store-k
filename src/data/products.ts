@@ -5,7 +5,7 @@ import watchImage from "@/assets/product-watch.jpg";
 import speakerImage from "@/assets/product-speaker.jpg";
 import jacketImage from "@/assets/product-jacket.jpg";
 import shoesImage from "@/assets/product-shoes.jpg";
-
+import walletImage from "@/assets/product-wallet.jpg";
 
 
 
@@ -81,6 +81,14 @@ export const products: Product[] = [
   category: "Clothing",
   image: shoesImage,
   description: "Breathable, lightweight running shoes designed for comfort, durability, and performance during workouts.",
+},
+{
+  id: "10",
+  name: "Luxury Leather Wallet",
+  price: 7.99,
+  category: "Accessories",
+  image: walletImage,
+  description: "Sleek genuine leather wallet with multiple card slots and a slim, premium design.",
 },
   
 ];
