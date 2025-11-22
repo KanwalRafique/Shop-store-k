@@ -3,6 +3,9 @@ import phoneImage from "@/assets/product-phone.jpg";
 import headphonesImage from "@/assets/product-headphones.jpg";
 import watchImage from "@/assets/product-watch.jpg";
 import speakerImage from "@/assets/product-speaker.jpg";
+import jacketImage from "@/assets/product-jacket.jpg";
+import shoesImage from "@/assets/assets/product-Athletic-running-shoes.jpg";
+
 
 
 
@@ -62,6 +65,22 @@ export const products: Product[] = [
   category: "Electronics",
   image: speakerImage,
   description: "Portable speaker with deep bass, long battery life, and seamless Bluetooth connectivity for music on the go.",
+},
+{
+  id: "8",
+  name: "Classic Denim Jacket",
+  price: 24.99,
+  category: "Clothing",
+  image: jacketImage,
+  description: "Timeless denim jacket with a modern fit. Perfect for casual wear and all-season styling.",
+},
+{
+  id: "10",
+  name: "Athletic Running Shoes",
+  price: 29.99,
+  category: "Clothing",
+  image: shoesImage,
+  description: "Breathable, lightweight running shoes designed for comfort, durability, and performance during workouts.",
 },
   
 ];
