@@ -1,4 +1,5 @@
-# Query: 
+# Query: lovable
+# ContextLines: 1
 
 36 results - 4 files
 
@@ -133,26 +134,3 @@ vite.config.ts:
   3  import path from "path";
   4: import { componentTagger } from "lovable-tagger";
   5  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
