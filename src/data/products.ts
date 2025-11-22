@@ -7,7 +7,7 @@ export const products: Product[] = [
   {
     id: "1",
     name: "Premium Smartphone X",
-    price: 6.99,
+    price: 99.99,
     category: "Electronics",
     image: phoneImage,
     description: "Latest flagship smartphone with advanced camera system, 5G connectivity, and all-day battery life. Features a stunning 6.7-inch OLED display and powerful processor.",
@@ -15,7 +15,7 @@ export const products: Product[] = [
   {
     id: "2",
     name: "Wireless Headphones Pro",
-    price: 7.99,
+    price: 5.99,
     category: "Electronics",
     image: headphonesImage,
     description: "Premium over-ear headphones with active noise cancellation, superior sound quality, and 30-hour battery life. Perfect for music lovers and professionals.",
@@ -31,7 +31,7 @@ export const products: Product[] = [
   {
     id: "4",
     name: "Ultra Smartphone Pro",
-    price: 4.99,
+    price: 89.99,
     category: "Electronics",
     image: phoneImage,
     description: "Top-tier smartphone with professional-grade camera, massive storage, and cutting-edge performance for power users.",
