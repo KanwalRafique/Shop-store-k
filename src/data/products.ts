@@ -7,7 +7,8 @@ import jacketImage from "@/assets/product-denum-jacket.jpg";
 import shoesImage from "@/assets/product-shoes.jpg";
 import walletImage from "@/assets/product-wallet.jpg";
 import sunglassesImage from "@/assets/product-sunglasses.jpg";
-import fitnessBandImage from "@/assets/product-fitness-band.jpg";
+import fitnessBandImage from "@/assets/product-smart-watch.jpg";
+
 
 
 
