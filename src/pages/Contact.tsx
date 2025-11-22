@@ -51,7 +51,7 @@ const Contact = () => {
                   <Mail className="h-6 w-6 text-primary" />
                 </div>
                 <h3 className="text-xl font-semibold">Email Us</h3>
-                <p className="text-muted-foreground">support@store.com</p>
+                <p className="text-muted-foreground">kanwalrafiq786@gmail.com</p>
               </Card>
 
               <Card className="p-6 text-center space-y-4">

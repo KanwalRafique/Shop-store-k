@@ -2,6 +2,8 @@ import { Product } from "@/components/ProductCard";
 import phoneImage from "@/assets/product-phone.jpg";
 import headphonesImage from "@/assets/product-headphones.jpg";
 import watchImage from "@/assets/product-watch.jpg";
+import speakerImage from "@/assets/product-speaker.jpg";
+
 
 export const products: Product[] = [
   {
@@ -52,4 +54,13 @@ export const products: Product[] = [
     image: watchImage,
     description: "Rugged sports watch with multi-sport tracking, long battery life, and outdoor navigation features. Built to withstand extreme conditions.",
   },
+  {
+  id: "7",
+  name: "Wireless Bluetooth Speaker",
+  price: 19.99,
+  category: "Electronics",
+  image: speakerImage,
+  description: "Portable speaker with deep bass, long battery life, and seamless Bluetooth connectivity for music on the go.",
+},
+  
 ];
