@@ -4,7 +4,8 @@ import headphonesImage from "@/assets/product-headphones.jpg";
 import watchImage from "@/assets/product-watch.jpg";
 import speakerImage from "@/assets/product-speaker.jpg";
 import jacketImage from "@/assets/product-jacket.jpg";
-import shoesImage from "@/assets/assets/product-Athletic-running-shoes.jpg";
+import shoesImage from "@/assets/product-shoes.jpg";
+
 
 
 
