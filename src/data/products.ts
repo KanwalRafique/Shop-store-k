@@ -89,7 +89,7 @@ export const products: Product[] = [
 {
   id: "10",
   name: "Athletic Running Shoes",
-  price: 29.99,
+  price: 15.99,
   category: "Clothing",
   image: shoesImage,
   description: "Breathable, lightweight running shoes designed for comfort, durability, and performance during workouts.",
@@ -105,7 +105,7 @@ export const products: Product[] = [
 {
   id: "12",
   name: "Smart Fitness Band",
-  price: 12.49,
+  price: 9.99,
   category: "Electronics",
   image: fitnessBandImage,
   description: "Lightweight fitness tracker with heart-rate monitoring, step counting, and sleep tracking features.",
