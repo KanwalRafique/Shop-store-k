@@ -9,7 +9,6 @@ import shoesImage from "@/assets/product-shoes.jpg";
 
 
 
-
 export const products: Product[] = [
   {
     id: "1",
