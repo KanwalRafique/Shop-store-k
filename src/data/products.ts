@@ -3,7 +3,7 @@ import phoneImage from "@/assets/product-phone.jpg";
 import headphonesImage from "@/assets/product-headphones.jpg";
 import watchImage from "@/assets/product-watch.jpg";
 import speakerImage from "@/assets/product-speaker.jpg";
-import jacketImage from "@/assets/product-jacket.jpg";
+import jacketImage from "@/assets/product-denum-jacket.jpg";
 import shoesImage from "@/assets/product-shoes.jpg";
 import walletImage from "@/assets/product-wallet.jpg";
 
