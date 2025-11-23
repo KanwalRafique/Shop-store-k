@@ -107,7 +107,7 @@ export const products: Product[] = [
   id: "11",
   name: "Luxury Leather Wallet",
   price: 7.99,
-  category: "Electronics",
+  category: "Accessories",
   image: walletImage,
   description: "Sleek genuine leather wallet with multiple card slots and a slim, premium design.",
 },
@@ -121,7 +121,7 @@ export const products: Product[] = [
 },
 {
   id: "13",
-  name: "Winter Hooded Sweatshirt",
+  name: "Winter Hoode Sweatshirt",
   price: 18.49,
   category: "Clothing",
   image: hoodieImage,
